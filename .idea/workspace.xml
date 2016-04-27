@@ -88,11 +88,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HelloControllerIT.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ControllerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hello/ControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="79" selection-start-line="43" selection-start-column="79" selection-end-line="43" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloControllerIT.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hello/HelloControllerIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="52" column="73" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
+            <state relative-caret-position="453">
+              <caret line="51" column="45" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -544,10 +556,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/hello.js" />
         <option value="$PROJECT_DIR$/src/main/resources/app.js" />
         <option value="$PROJECT_DIR$/src/main/java/hello/CorsFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hello/ControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/Obj.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/HelloControllerIT.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hello/ControllerTest.java" />
       </list>
     </option>
   </component>
@@ -697,7 +709,7 @@
       <recent name="D:\Study\Projects\AngularJS\Task1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HelloControllerIT.getHello">
+  <component name="RunManager" selected="JUnit.ControllerTest.getHello">
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.Application" />
       <option name="VM_PARAMETERS" />
@@ -710,24 +722,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Task1_main" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Task1 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="false" name="ControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -776,6 +770,26 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="hello" />
       <option name="MAIN_CLASS_NAME" value="hello.HelloControllerIT" />
+      <option name="METHOD_NAME" value="getHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ControllerTest.getHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task1_main" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="hello" />
+      <option name="MAIN_CLASS_NAME" value="hello.ControllerTest" />
       <option name="METHOD_NAME" value="getHello" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1014,18 +1028,18 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="Gradle.Unnamed" />
       <item index="2" class="java.lang.String" itemvalue="Application.Application" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.Task1 [clean]" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.HelloControllerIT" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.HelloControllerIT.getHello" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HelloControllerIT" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.HelloControllerIT.getHello" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.ControllerTest.getHello" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HelloControllerIT.getHello" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Application" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HelloControllerIT" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.Task1 [clean]" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ControllerTest.getHello" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HelloControllerIT.getHello" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Application" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HelloControllerIT" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -1042,8 +1056,11 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
-    <history-entry file="HelloControllerIT - 2016.04.19 at 12h 08m 57s.xml">
-      <configuration name="HelloControllerIT" configurationId="JUnit" />
+    <history-entry file="ControllerTest_getHello - 2016.04.27 at 16h 15m 11s.xml">
+      <configuration name="ControllerTest.getHello" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest_getHello - 2016.04.27 at 16h 15m 48s.xml">
+      <configuration name="ControllerTest.getHello" configurationId="JUnit" />
     </history-entry>
     <history-entry file="HelloControllerIT_getHello - 2016.04.27 at 15h 44m 39s.xml">
       <configuration name="HelloControllerIT.getHello" configurationId="JUnit" />
@@ -1066,16 +1083,13 @@
     <history-entry file="HelloControllerIT_getHello - 2016.04.27 at 16h 08m 19s.xml">
       <configuration name="HelloControllerIT.getHello" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HelloControllerTest - 2016.04.13 at 17h 40m 14s.xml">
-      <configuration name="HelloControllerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HelloControllerTest - 2016.04.13 at 17h 40m 38s.xml">
       <configuration name="HelloControllerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1084,9 +1098,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31385282" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31385282" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32683983" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32683983" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3128998" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -1428,16 +1442,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello/CorsFilter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hello/ControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -1483,8 +1487,8 @@
         <state relative-caret-position="202">
           <caret line="353" column="44" selection-start-line="353" selection-start-column="44" selection-end-line="353" selection-end-column="44" />
           <folding>
-            <element signature="e#15609#15610#0" expanded="true" />
-            <element signature="e#15671#15672#0" expanded="true" />
+            <element signature="e#15609#15610#0" expanded="false" />
+            <element signature="e#15671#15672#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1503,8 +1507,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello/HelloControllerIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="52" column="73" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
+        <state relative-caret-position="453">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="79" selection-start-line="43" selection-start-column="79" selection-end-line="43" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
