@@ -18,9 +18,7 @@ public class Controller {
                            @RequestParam(value = "size", required = false, defaultValue = "20") Integer size) {
         Obj obj = new Obj();
         for (int i = size*page+1; i < page*size + size + 1; i++) {
-            if (i != size * page) {
-            }
-                obj.items.add(new Item(i));
+            obj.items.add(new Item(i));
         }
         obj.more = (size*page + size) < 400;
         return obj;
